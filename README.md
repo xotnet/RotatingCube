@@ -1,7 +1,7 @@
 # RotatingCube
 [Additional info]
 OpenGL cube rotation with keyboard control support
-* tested on C++ 13
+__* tested on C++ 13__
 
 ![Alt Text](anim.gif)
 
@@ -14,8 +14,9 @@ OpenGL cube rotation with keyboard control support
 **Q - make cube smaller**
 
 [Compilation]
+
 **Using g++:** ```g++ main.cpp -lglfw3 -lopengl32 -lgdi32```
-* use lib/ libs for compile
+__* use lib/ libs for compile__
 
 [Donation]
 BitCoin DONATION ☕️: ```bc1q24sqqj6p6htuktap2vht2uzna9u7w3wlk8kfwk```
