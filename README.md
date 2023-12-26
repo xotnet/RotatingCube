@@ -5,11 +5,13 @@ OpenGL cube rotation with keyboard control support
 
 [App support keyboard control]
 **Space - pause/continue cube rotation
+
 E - make cube bigger
+
 Q - make cube smaller**
 
 [Compilation]
-**Using g++: ** ```g++ main.cpp -lglfw3 -lopengl32 -lgdi32```
+**Using g++:** ```g++ main.cpp -lglfw3 -lopengl32 -lgdi32```
 * use lib/ libs for compile
 
 [Donation]
