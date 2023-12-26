@@ -3,6 +3,8 @@
 OpenGL cube rotation with keyboard control support
 * tested on C++ 13
 
+![Alt Text](anim.gif)
+
 [App support keyboard control]
 
 **Space - pause/continue cube rotation**
